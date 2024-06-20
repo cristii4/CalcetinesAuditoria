@@ -1,0 +1,39 @@
+
+
+Un usuario ha accedido al sistema: 2024/06/20 14:12:16
+
+ El usuario: Alexia con nivel 1 es quien ha accedido al sistema.
+Alexia ha accedido con la opción 'Listar productos'
+Alexia ha listado los productos de 'Productos.txt'
+
+Un usuario ha accedido al sistema: 2024/06/20 14:12:51
+
+ El usuario: Alexia con nivel 1 es quien ha accedido al sistema.
+Alexia ha accedido con la opción 'Agregar producto'
+Alexia ha agregado el producto: 3581;Puntos;Negro;7;Si a 'Productos.txt'
+
+Un usuario ha accedido al sistema: 2024/06/20 14:13:47
+
+ El usuario: Marta con nivel 3 es quien ha accedido al sistema.
+Marta ha accedido con la opción 'Listar productos'
+Marta ha listado los productos de 'Productos.txt'
+
+Un usuario ha accedido al sistema: 2024/06/20 14:14:01
+
+ El usuario: Irena con nivel 4 es quien ha accedido al sistema.
+
+ El usuario: Irena con nivel 4 es quien ha accedido al sistema.
+
+Un usuario ha accedido al sistema: 2024/06/20 14:14:07
+
+ El usuario: Irene con nivel 2 es quien ha accedido al sistema.
+Irene ha accedido con la opción 'Modificar venta'
+
+Irene ha modificado la venta: 3890;Jonatan Giraldez;Demonios Rojos a : 3890;Jonatan Giraldez;Unicornios Multicolor en el archivo 'Ventas.txt'
+
+Un usuario ha accedido al sistema: 2024/06/20 14:15:29
+
+ El usuario: Maria con nivel 1 es quien ha accedido al sistema.
+Maria ha accedido con la opción 'Crear venta'
+
+Maria ha creado la venta: 3301;Bruna Vilamala;Bananas Amarillas en 'Ventas.txt'
